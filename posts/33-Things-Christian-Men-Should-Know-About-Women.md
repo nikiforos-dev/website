@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/33-things-christian-men-should-know-about-women
 pCate: Roosh
 postFormat: standard
-post_views: 9 Views
-read_time: 9 min read
+post_views: 21 Views
+read_time: 8 min read
 slidePost: true
 tags:
 - Personal Growth

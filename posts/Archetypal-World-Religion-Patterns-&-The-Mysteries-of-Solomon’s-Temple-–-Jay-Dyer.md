@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/09/05/archetypal-world-religion-patterns-the-mysteries-of-solomons-temple-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 20 Views
-read_time: 11 min read
+post_views: 35 Views
+read_time: 8 min read
 slidePost: true
 tags:
 - Orthodox

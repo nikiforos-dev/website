@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/03/F-barabbas.jpg?resize=1140%2C663&ssl=1
 date: March 16, 2022
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/03/F-barabbas.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/people-today-still-choose-barabbas/
 pCate: Death to the World
 postFormat: standard
-post_views: 47 Views
-read_time: 17 min read
+post_views: 40 Views
+read_time: 18 min read
 slidePost: true
 tags:
 - Orthodox

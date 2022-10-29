@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/10/10/trent-horn-matt-fradd-tag-the-one-many-borgias-energies-created-grace-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 33 Views
-read_time: 8 min read
+post_views: 66 Views
+read_time: 10 min read
 slidePost: true
 tags:
 - Orthodox

@@ -26,7 +26,7 @@ link: https://jaysanalysis.com/2022/07/07/an-evening-with-jay-dyer-live-in-nashv
 pCate: Jays Analysis
 postFormat: standard
 post_views: 23 Views
-read_time: 12 min read
+read_time: 8 min read
 slidePost: true
 tags:
 - Orthodox

@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/07/15/the-pros-cons-of-enlightenment-new-jay-dyer-book/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 20 Views
-read_time: 6 min read
+post_views: 24 Views
+read_time: 13 min read
 slidePost: true
 tags:
 - Orthodox

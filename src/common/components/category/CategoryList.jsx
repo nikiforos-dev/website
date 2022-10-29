@@ -17,7 +17,7 @@ const CategoryList = ({cateData}) => {
             <div className="list-categories d-flex flex-wrap">
               {/* Start Single Category  */}
 
-              {uniqueCategory.slice(0, 6).map((data, index) => (
+              {uniqueCategory.slice(0, 12).map((data, index) => (
                 <div className="single-cat" key={index}>
                 <div className="inner">
                 <Link href={`/category/${slugify(data.cate)}`}>

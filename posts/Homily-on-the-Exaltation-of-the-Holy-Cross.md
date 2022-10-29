@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/f-holycross.jpg?resize=1140%2C663&ssl=1
 date: September 14, 2022
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/f-holycross.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/homily-on-the-exaltation-of-the-holy-cross/
 pCate: Death to the World
 postFormat: standard
-post_views: 79 Views
-read_time: 18 min read
+post_views: 11 Views
+read_time: 19 min read
 slidePost: true
 tags:
 - Orthodox

@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/09/19/the-state-of-islamic-apologetics-debates-orthodox-shahada-jay-dyer-analyze/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 44 Views
-read_time: 10 min read
+post_views: 36 Views
+read_time: 14 min read
 slidePost: true
 tags:
 - Orthodox

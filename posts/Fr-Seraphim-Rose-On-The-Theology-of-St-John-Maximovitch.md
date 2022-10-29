@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/f-SeraphimJohn.jpg?resize=1140%2C663&ssl=1
 date: September 9, 2022
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/f-SeraphimJohn.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/fr-seraphim-rose-on-the-theology-of-st-john-maximovitch/
 pCate: Death to the World
 postFormat: standard
-post_views: 39 Views
-read_time: 10 min read
+post_views: 9 Views
+read_time: 13 min read
 slidePost: true
 tags:
 - Orthodox

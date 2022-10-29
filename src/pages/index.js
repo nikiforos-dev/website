@@ -5,13 +5,14 @@ import HeaderOne from '../common/elements/header/HeaderOne';
 import { getAllPosts } from '../../lib/api';
 import PostSectionOne from '../common/components/post/PostSectionOne';
 import PostSectionTwo from '../common/components/post/PostSectionTwo';
-// import PostSectionThree from '../common/components/post/PostSectionThree';
+import PostSectionThree from '../common/components/post/PostSectionThree';
 import CategoryList from '../common/components/category/CategoryList';
 // import PostSectionFour from '../common/components/post/PostSectionFour';
 import SocialOne from '../common/components/social/SocialOne';
 // import PostSectionFive from '../common/components/post/PostSectionFive';
 import PostSectionSix from '../common/components/post/PostSectionSix';
 import SliderOne from '../common/components/slider/SliderOne';
+import FooterTwo from '../common/elements/footer/FooterThree';
 
 
 const HomeDefault = ({allPosts}) => {
@@ -20,15 +21,16 @@ const HomeDefault = ({allPosts}) => {
  
   return ( 
     <>
-      <HeadTitle pageTitle="Home Default" />
+      <HeadTitle pageTitle="Orthodox Homepage" />
       <HeaderOne postData={allPosts}/>
       <SliderOne postData={allPosts} />
+      <PostSectionThree postData={allPosts} adBanner={true} bgColor="bg-color-grey" heading="Most Popular"/>
       <PostSectionOne postData={allPosts}/>
       <PostSectionTwo postData={allPosts} adBanner={false} />
       <CategoryList cateData={allPosts}/>
       <PostSectionSix postData={allPosts} />
       <SocialOne />
-      <FooterOne />
+      <FooterTwo />
       
     </>
    );

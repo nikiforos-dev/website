@@ -1,0 +1,42 @@
+---
+author_bio: "\n    Husband, father, and Priest. \nSchooling: Kharkov State University\
+    \ (Ukraine); Brownsville School of Ministry; St. Tikhon's Orthodox Seminary (M.Div.).\n\
+    Author and illustrator of St. Patrick, Enlightener of the Irish Lands (Conciliar\
+    \ Press, out of print) and illustrator of The Life of St. Brigid (authored by\
+    \ Jane G. Meyer).\nProprietor and writer at the Inkless Pen Blog, at which, based\
+    \ on  the foundation of the teachings of Orthodox Christianity, a wide variety\
+    \ of topics are addressed. Fr. Zechariah has translated some works by St. Dimitry\
+    \ of Rostov and New Hieromartyr Seraphim (Zvesdensky), these translations are\
+    \ also available on his blog.\n"
+author_designation: Contributor to Patristic Faith
+author_img: https://www.patristicfaith.com/wp-content/uploads/2022/01/Fr.-Zechariah-Lynch-150x150.png
+author_name: "\n\t\n                        \n\t\t            Fr. Zechariah Lynch\
+    \                \n\t            \t\n"
+author_social:
+-   icon: fab fa-facebook-f
+    url: https://www.facebook.com/Patristic-Faith-102505382206381
+-   icon: fab fa-twitter
+    url: https://twitter.com/patristic_faith
+-   icon: fab fa-instagram
+    url: https://www.instagram.com/patristicfaith/
+-   icon: fas fa-link
+    url: https://linkedin.com
+cate: Spirituality
+cate_img: https://www.patristicfaith.com/wp-content/uploads/2022/09/The-Antiphons-Hymns-of-Holy-Delight.png
+date: "\n\t\t\t\t\t\t\t\t\t\tSeptember 20, 2022\t\t\t\t\t"
+featureImg: https://www.patristicfaith.com/wp-content/uploads/2022/09/The-Antiphons-Hymns-of-Holy-Delight.png
+featured: true
+link: https://www.patristicfaith.com/orthodox-christianity/the-antiphons-hymns-of-holy-delight/
+pCate: Patristic Faith
+postFormat: standard
+post_views: 28 Views
+read_time: 2 min read
+slidePost: true
+tags:
+- Orthodox
+- Serbian
+- Clergy
+- Philospher
+- Debates
+title: "The Antiphons: Hymns of Holy\_Delight"
+---

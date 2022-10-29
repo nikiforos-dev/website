@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/07/23/augustine-analogy-of-being-delusion-fr-romanides-worship-in-john-the-pilgrim-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 49 Views
-read_time: 9 min read
+post_views: 63 Views
+read_time: 19 min read
 slidePost: true
 tags:
 - Orthodox

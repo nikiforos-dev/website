@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/5-things-modern-people-love-more-than-god-video
 pCate: Roosh
 postFormat: standard
-post_views: 4 Views
-read_time: 21 min read
+post_views: 14 Views
+read_time: 26 min read
 slidePost: true
 tags:
 - Personal Growth

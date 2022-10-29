@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/08/F-psychosis.jpg?resize=1140%2C663&ssl=1
 date: August 18, 2022
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/08/F-psychosis.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/sinister-psychosis-and-the-remembrance-of-god/
 pCate: Death to the World
 postFormat: standard
-post_views: 43 Views
-read_time: 16 min read
+post_views: 81 Views
+read_time: 10 min read
 slidePost: true
 tags:
 - Orthodox

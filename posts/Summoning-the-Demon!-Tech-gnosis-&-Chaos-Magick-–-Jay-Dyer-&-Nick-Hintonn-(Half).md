@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/09/27/summoning-the-demon-tech-gnosis-chaos-magick-jay-dyer-nick-hintonn-half/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 13 Views
-read_time: 12 min read
+post_views: 26 Views
+read_time: 16 min read
 slidePost: true
 tags:
 - Orthodox

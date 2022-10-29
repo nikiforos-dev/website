@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/08/23/the-tree-of-life-its-meaning-symbolism-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 8 Views
-read_time: 10 min read
+post_views: 28 Views
+read_time: 8 min read
 slidePost: true
 tags:
 - Orthodox

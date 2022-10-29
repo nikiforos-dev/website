@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/modern-culture-is-plastic-and-self-centered
 pCate: Roosh
 postFormat: standard
-post_views: 2 Views
-read_time: 20 min read
+post_views: 38 Views
+read_time: 13 min read
 slidePost: true
 tags:
 - Personal Growth

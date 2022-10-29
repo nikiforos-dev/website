@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/08/11/open-debate-trinity-epistemic-justification-sola-scriptura-atonement-more-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 36 Views
-read_time: 8 min read
+post_views: 17 Views
+read_time: 12 min read
 slidePost: true
 tags:
 - Orthodox

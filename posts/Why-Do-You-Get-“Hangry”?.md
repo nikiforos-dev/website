@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/why-do-you-get-hangry
 pCate: Roosh
 postFormat: standard
-post_views: 29 Views
-read_time: 15 min read
+post_views: 21 Views
+read_time: 12 min read
 slidePost: true
 tags:
 - Personal Growth

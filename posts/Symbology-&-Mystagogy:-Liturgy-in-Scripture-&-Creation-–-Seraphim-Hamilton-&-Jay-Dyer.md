@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/08/11/symbology-mystagogy-liturgy-in-scripture-creation-seraphim-hamilton-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 11 Views
-read_time: 13 min read
+post_views: 63 Views
+read_time: 14 min read
 slidePost: true
 tags:
 - Orthodox

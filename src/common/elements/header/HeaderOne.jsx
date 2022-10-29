@@ -35,7 +35,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                                         width={141}
                                         height={37}
                                         src={(colorMode === "Dark" ? lightLogo || "/images/logo/logo-white2.webp" : darkLogo || "/images/logo/logo-black.webp") || "/images/logo/logo-black.webp" }
-                                        alt="Blogar logo"
+                                        alt="Orthodox Homepage Logo"
                                         />
                                     </a>
                                 </Link>

@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2021/10/F-command.jpg?resize=1140%2C663&ssl=1
 date: October 8, 2021
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2021/10/F-command.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/other-articles/commandments-and-anti-commandments/
 pCate: Death to the World
 postFormat: standard
-post_views: 97 Views
-read_time: 6 min read
+post_views: 98 Views
+read_time: 19 min read
 slidePost: true
 tags:
 - Orthodox

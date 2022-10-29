@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/10/21/andrey-tarkovsky-a-cinema-prayer-introduction-fr-vladimir-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 69 Views
-read_time: 9 min read
+post_views: 24 Views
+read_time: 12 min read
 slidePost: true
 tags:
 - Orthodox

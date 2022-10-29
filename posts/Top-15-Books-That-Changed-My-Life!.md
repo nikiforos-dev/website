@@ -25,7 +25,7 @@ featured: true
 link: https://jaysanalysis.com/2022/08/19/top-15-books-that-changed-my-life/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 24 Views
+post_views: 15 Views
 read_time: 12 min read
 slidePost: true
 tags:

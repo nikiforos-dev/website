@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/signs-you-have-strong-faith
 pCate: Roosh
 postFormat: standard
-post_views: 32 Views
-read_time: 9 min read
+post_views: 39 Views
+read_time: 23 min read
 slidePost: true
 tags:
 - Personal Growth

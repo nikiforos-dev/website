@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/10/F-Phantom.jpg?resize=1140%2C663&ssl=1
 date: October 4, 2022
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/10/F-Phantom.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/chasing-the-phantom/
 pCate: Death to the World
 postFormat: standard
-post_views: 87 Views
-read_time: 8 min read
+post_views: 47 Views
+read_time: 7 min read
 slidePost: true
 tags:
 - Orthodox

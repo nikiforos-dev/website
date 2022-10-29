@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/should-christians-study-the-book-of-acts
 pCate: Roosh
 postFormat: standard
-post_views: 3 Views
-read_time: 17 min read
+post_views: 25 Views
+read_time: 16 min read
 slidePost: true
 tags:
 - Personal Growth

@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/an-orthodox-examination-of-my-foolish-psychedelic-experience
 pCate: Roosh
 postFormat: standard
-post_views: 38 Views
-read_time: 7 min read
+post_views: 5 Views
+read_time: 16 min read
 slidePost: true
 tags:
 - Personal Growth

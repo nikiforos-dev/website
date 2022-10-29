@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/07/17/roman-catholicism-refuted-part-2-trent-horns-papalism-a-response-to-trents-rebuttal-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 4 Views
-read_time: 6 min read
+post_views: 14 Views
+read_time: 13 min read
 slidePost: true
 tags:
 - Orthodox

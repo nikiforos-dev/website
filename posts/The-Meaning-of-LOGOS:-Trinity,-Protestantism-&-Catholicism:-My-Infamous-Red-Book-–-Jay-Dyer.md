@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/08/17/the-meaning-of-logos-trinity-protestantism-catholicism-my-infamous-red-book-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 65 Views
-read_time: 14 min read
+post_views: 67 Views
+read_time: 16 min read
 slidePost: true
 tags:
 - Orthodox

@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/07/10/trent-horn-refuted-on-papalism-a-response-to-trents-rebuttal-jay-dyer/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 35 Views
-read_time: 9 min read
+post_views: 5 Views
+read_time: 15 min read
 slidePost: true
 tags:
 - Orthodox

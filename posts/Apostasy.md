@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/01/F-apostasy.jpg?resize=1140%2C663&ssl=1
 date: January 31, 2022
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/01/F-apostasy.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/apostasy/
 pCate: Death to the World
 postFormat: standard
-post_views: 62 Views
-read_time: 19 min read
+post_views: 58 Views
+read_time: 15 min read
 slidePost: true
 tags:
 - Orthodox

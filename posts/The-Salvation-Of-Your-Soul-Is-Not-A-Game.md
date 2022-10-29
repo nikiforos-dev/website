@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/the-salvation-of-your-soul-is-not-a-game
 pCate: Roosh
 postFormat: standard
-post_views: 8 Views
-read_time: 27 min read
+post_views: 18 Views
+read_time: 24 min read
 slidePost: true
 tags:
 - Personal Growth

@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/do-you-exempt-yourself-from-gods-law
 pCate: Roosh
 postFormat: standard
-post_views: 14 Views
-read_time: 12 min read
+post_views: 49 Views
+read_time: 28 min read
 slidePost: true
 tags:
 - Personal Growth

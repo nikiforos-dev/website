@@ -20,12 +20,12 @@ cate: Faith
 cate_img: https://www.rooshv.com/wp-content/uploads/2022/08/hagia-sophia-550x362.jpg
 date: null
 featureImg: https://www.rooshv.com/wp-content/uploads/2022/08/hagia-sophia-550x362.jpg
-featured: false
+featured: true
 link: https://www.rooshv.com/27-christian-articles-i-recommend
 pCate: Roosh
 postFormat: standard
-post_views: 19 Views
-read_time: 19 min read
+post_views: 42 Views
+read_time: 25 min read
 slidePost: true
 tags:
 - Personal Growth

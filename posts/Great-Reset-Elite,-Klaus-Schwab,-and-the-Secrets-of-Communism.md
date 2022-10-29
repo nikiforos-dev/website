@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/09/28/great-reset-elite-klaus-schwab-and-the-secrets-of-communism/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 60 Views
-read_time: 11 min read
+post_views: 50 Views
+read_time: 13 min read
 slidePost: true
 tags:
 - Orthodox

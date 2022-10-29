@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/07/25/fr-romanides-john-the-pilgrim-quackodoxy-references/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 37 Views
-read_time: 18 min read
+post_views: 4 Views
+read_time: 7 min read
 slidePost: true
 tags:
 - Orthodox

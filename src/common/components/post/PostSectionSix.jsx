@@ -3,35 +3,11 @@ import Link from "next/link";
 import Image from "next/image";
 import Tab from "react-bootstrap/Tab";
 import Nav from "react-bootstrap/Nav";
+import authorFilter from "../../../data/user_defined/article_authors.json"
 import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
 import { HoverActiveClass, slugify } from "../../utils";
 
-const filters = [
-  {
-    id: 1,
-    author_name: "Death to the World",
-  },
-  {
-    id: 2,
-    author_name: "Jay Dyer",
-  },
-  {
-    id: 3,
-    author_name: "Fr Zechariah Lynch",
-  },
-  {
-    id: 4,
-    author_name: "Roosh Valizadeh",
-  },
-  {
-    id: 5,
-    author_name: "Fr John Valadez",
-  },
-
-
-  
-  
-];
+const filters = authorFilter;
 
 const defaultActiveCat = slugify(filters[0].author_name);
 

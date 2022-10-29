@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/why-do-you-consume-secular-content
 pCate: Roosh
 postFormat: standard
-post_views: 31 Views
-read_time: 25 min read
+post_views: 49 Views
+read_time: 20 min read
 slidePost: true
 tags:
 - Personal Growth

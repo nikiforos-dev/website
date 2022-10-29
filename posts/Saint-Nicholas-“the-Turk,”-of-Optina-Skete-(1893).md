@@ -21,10 +21,11 @@ cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/F-Turk.jpg?resize=1140%2C663&ssl=1
 date: September 6, 2022
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/F-Turk.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/saint-nicholas-the-turk-of-optina-skete-1893/
 pCate: Death to the World
 postFormat: standard
-post_views: 17 Views
+post_views: 22 Views
 read_time: 13 min read
 slidePost: true
 tags:

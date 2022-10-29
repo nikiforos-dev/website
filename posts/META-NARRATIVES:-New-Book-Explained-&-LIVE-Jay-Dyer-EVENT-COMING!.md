@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/07/05/meta-narratives-new-book-explained-live-jay-dyer-event-coming/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 34 Views
-read_time: 9 min read
+post_views: 16 Views
+read_time: 17 min read
 slidePost: true
 tags:
 - Orthodox

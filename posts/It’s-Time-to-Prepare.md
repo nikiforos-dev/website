@@ -21,11 +21,12 @@ cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/01/F-itstime.jpg?resize=1140%2C663&ssl=1
 date: January 18, 2022
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/01/F-itstime.jpg?resize=1140%2C663&ssl=1
+featured: true
 link: https://deathtotheworld.com/articles/its-time-to-prepare/
 pCate: Death to the World
 postFormat: standard
-post_views: 60 Views
-read_time: 11 min read
+post_views: 59 Views
+read_time: 15 min read
 slidePost: true
 tags:
 - Orthodox

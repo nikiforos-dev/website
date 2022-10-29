@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/the-best-exegesis-of-the-four-gospels
 pCate: Roosh
 postFormat: standard
-post_views: 22 Views
-read_time: 12 min read
+post_views: 20 Views
+read_time: 28 min read
 slidePost: true
 tags:
 - Personal Growth

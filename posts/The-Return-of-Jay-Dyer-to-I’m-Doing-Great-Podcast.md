@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/08/21/the-return-of-jay-dyer-to-im-doing-great-podcast/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 29 Views
-read_time: 6 min read
+post_views: 18 Views
+read_time: 10 min read
 slidePost: true
 tags:
 - Orthodox

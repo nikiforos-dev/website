@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/its-not-easy-to-escape-from-the-occult
 pCate: Roosh
 postFormat: standard
-post_views: 14 Views
-read_time: 15 min read
+post_views: 8 Views
+read_time: 23 min read
 slidePost: true
 tags:
 - Personal Growth

@@ -25,8 +25,8 @@ featured: true
 link: https://jaysanalysis.com/2022/08/29/the-coming-collapse-siege-chaos-and-self-destruction/
 pCate: Jays Analysis
 postFormat: standard
-post_views: 18 Views
-read_time: 19 min read
+post_views: 13 Views
+read_time: 14 min read
 slidePost: true
 tags:
 - Orthodox

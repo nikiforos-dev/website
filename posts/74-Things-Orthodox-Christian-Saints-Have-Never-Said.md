@@ -24,8 +24,8 @@ featured: true
 link: https://www.rooshv.com/74-things-orthodox-christian-saints-have-never-said
 pCate: Roosh
 postFormat: standard
-post_views: 2 Views
-read_time: 29 min read
+post_views: 28 Views
+read_time: 25 min read
 slidePost: true
 tags:
 - Personal Growth

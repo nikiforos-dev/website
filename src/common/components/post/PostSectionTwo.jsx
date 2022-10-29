@@ -3,26 +3,14 @@ import Link from "next/link";
 import Image from "next/image";
 import Tab from "react-bootstrap/Tab";
 import Nav from "react-bootstrap/Nav";
+import categoryFilter from "../../../data/user_defined/article_categories.json"
 import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
 import AddBanner from "../ad-banner/AddBanner";
 import Slider from "react-slick";
 import { slugify } from "../../utils";
 
-const filters = [
- 
-  {
-    id: 1,
-    cate: "Articles",
-  },
-  {
-    id: 2,
-    cate: "Theology",
-  },
-  {
-    id: 3,
-    cate: "Faith",
-  },
-];
+const filters = categoryFilter
+
 const defaultActiveCat = slugify(filters[0].cate);
 
 const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
@@ -176,7 +164,7 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
                                     priority={true}
                                   />
                               </div>
-                                <a href={`"${data.link}"`} target="_blank">
+                                <a href={data.link} target="_blank">
                                   <Image
                                     src={data.featureImg}
                                     alt={data.title}

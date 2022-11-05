@@ -23,8 +23,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/misplaced-priorities/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 22 Views
-read_time: 4 min read
+post_views: 14 Views
+read_time: 1 min read
 slidePost: false
 tags:
 - Orthodox

@@ -26,8 +26,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/orthodox-christian-apologetics/matt-dillahunty-vs-jay-dyer-debate-on-theism/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 23 Views
-read_time: 1 min read
+post_views: 4 Views
+read_time: 2 min read
 slidePost: false
 tags:
 - Orthodox

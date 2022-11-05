@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/saint-nicholas-the-turk-of-optina-skete-1893/
 pCate: Death to the World
 postFormat: standard
-post_views: 57 Views
-read_time: 7 min read
+post_views: 64 Views
+read_time: 11 min read
 slidePost: false
 tags:
 - Orthodox

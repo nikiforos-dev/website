@@ -33,11 +33,11 @@ const SliderOne = ({ postData }) => {
 
   const slideSettings = {
     dots: false,
-    infinite: false,
-    speed: 800,
+    infinite: true,
+    speed: 500,
     fade: true,
-    slidesToShow: 1,
-    slidesToScroll: 1,
+    slidesToShow: 4,
+    slidesToScroll: 4,
     nextArrow: <SlickNextArrow />,
     prevArrow: <SlickPrevArrow />,
   };

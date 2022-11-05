@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/fr-seraphim-rose-on-the-theology-of-st-john-maximovitch/
 pCate: Death to the World
 postFormat: standard
-post_views: 62 Views
-read_time: 12 min read
+post_views: 74 Views
+read_time: 9 min read
 slidePost: false
 tags:
 - Orthodox

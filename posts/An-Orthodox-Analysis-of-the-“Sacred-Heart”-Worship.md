@@ -28,7 +28,7 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/an-orthodox-analysis-of-the-sacred-heart-worship/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 0 Views
+post_views: 9 Views
 read_time: 1 min read
 slidePost: false
 tags:

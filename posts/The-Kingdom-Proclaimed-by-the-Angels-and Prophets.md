@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/the-kingdom-proclaimed-by-the-angels-and-prophets/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 12 Views
-read_time: 3 min read
+post_views: 4 Views
+read_time: 4 min read
 slidePost: false
 tags:
 - Orthodox

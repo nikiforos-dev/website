@@ -31,7 +31,7 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/how-am-i-saved/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 25 Views
+post_views: 7 Views
 read_time: 1 min read
 slidePost: false
 tags:

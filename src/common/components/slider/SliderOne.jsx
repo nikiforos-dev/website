@@ -34,10 +34,11 @@ const SliderOne = ({ postData }) => {
   const slideSettings = {
     dots: false,
     infinite: true,
-    speed: 500,
+    speed: 800,
     fade: true,
-    slidesToShow: 4,
-    slidesToScroll: 4,
+    autoplay: true,
+    slidesToShow: 10,
+    slidesToScroll: 1,
     nextArrow: <SlickNextArrow />,
     prevArrow: <SlickPrevArrow />,
   };
@@ -49,7 +50,7 @@ const SliderOne = ({ postData }) => {
             <div className="col-lg-12">
               <Slider {...slideSettings} className="slider-activation axil-slick-arrow">
                
-                {slidePost.slice(0, 3).map((data) => (
+                {slidePost.slice(0, 10).map((data) => (
                   <div className="content-block" key={data.slug}>
                     {/* Start Post Thumbnail  */}
                     {data.featureImg ? 

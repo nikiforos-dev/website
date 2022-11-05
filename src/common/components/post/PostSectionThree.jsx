@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Image from "next/image";
 import { slugify } from "../../utils";
 import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
@@ -6,7 +5,7 @@ import AddBanner from "../ad-banner/AddBanner";
 
 const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
 
-  const firstPost = postData[0];
+  const firstPost = postData.filter(post => post.featured === true)[0];
 
   return (
     <div className={`axil-video-post-area axil-section-gap ${bgColor || "bg-color-black"}`}>
@@ -92,7 +91,9 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
           </div>
           <div className="col-xl-6 col-lg-6 col-md-12 col-md-6 col-12">
             <div className="row">
-              {postData.slice(1, 5).map((data) => (
+              {postData
+              .filter(post => post.featured === true)
+              .slice(1, 5).map((data) => (
                 <div className="col-lg-6 col-md-6 col-sm-6 col-12" key={data.slug}>
                   <div className="content-block post-default image-rounded mt--30">
                   {data.featureImg ? 

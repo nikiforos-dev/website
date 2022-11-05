@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/apostasy/
 pCate: Death to the World
 postFormat: standard
-post_views: 80 Views
-read_time: 6 min read
+post_views: 63 Views
+read_time: 15 min read
 slidePost: false
 tags:
 - Orthodox

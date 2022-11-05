@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/8th-ecumenical-council-and-its-rejection-of-the-filioque/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 22 Views
-read_time: 4 min read
+post_views: 14 Views
+read_time: 2 min read
 slidePost: false
 tags:
 - Orthodox

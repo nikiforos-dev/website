@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/sinister-psychosis-and-the-remembrance-of-god/
 pCate: Death to the World
 postFormat: standard
-post_views: 61 Views
-read_time: 8 min read
+post_views: 99 Views
+read_time: 10 min read
 slidePost: false
 tags:
 - Orthodox

@@ -66,9 +66,10 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
   const slideSettings = {
     dots: false,
     infinite: true,
-    speed: 500,
+    speed: 1000,
     slidesToShow: 3,
     slidesToScroll: 1,
+    autoplay: true,
     nextArrow: <SlickNextArrow />,
     prevArrow: <SlickPrevArrow />,
     responsive: [

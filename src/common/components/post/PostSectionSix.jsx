@@ -7,7 +7,7 @@ import authorFilter from "../../../data/user_defined/article_authors.json"
 import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
 import { HoverActiveClass, slugify } from "../../utils";
 
-const filters = authorFilter;
+const filters = authorFilter.slice(0,10);
 
 const defaultActiveCat = slugify(filters[0].author_name);
 
@@ -75,7 +75,7 @@ const PostSectionSix = ({ postData }) => {
 								<div className="post-content">
 									<div className="post-cat">
 									<div className="post-cat-list">
-                  <Link href={`/author/${slugify(data.author_name)}`}>
+										<Link href={`/author/${slugify(data.author_name)}`}>
 										<a className="hover-flip-item-wrapper">
 											<span className="hover-flip-item">
 											<span data-text={data.author_name}>
@@ -83,7 +83,7 @@ const PostSectionSix = ({ postData }) => {
 											</span>
 											</span>
 										</a>
-                  </Link>
+                  						</Link>
 									</div>
 									</div>
 									<h3 className="title">

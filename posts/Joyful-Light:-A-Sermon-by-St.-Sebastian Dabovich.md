@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/joyful-light-a-sermon-by-st-sebastian-dabovich/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 2 Views
-read_time: 3 min read
+post_views: 11 Views
+read_time: 1 min read
 slidePost: false
 tags:
 - Orthodox

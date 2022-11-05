@@ -25,7 +25,7 @@ featured: false
 link: https://deathtotheworld.com/articles/the-failure-of-hedonism/
 pCate: Death to the World
 postFormat: standard
-post_views: 67 Views
+post_views: 80 Views
 read_time: 10 min read
 slidePost: false
 tags:

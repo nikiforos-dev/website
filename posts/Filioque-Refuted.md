@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/catholic-answers-refuted-on-the-filioque/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 2 Views
-read_time: 4 min read
+post_views: 20 Views
+read_time: 2 min read
 slidePost: false
 tags:
 - Orthodox

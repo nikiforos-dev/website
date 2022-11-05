@@ -1,5 +1,4 @@
 // import InstagramOne from '../common/components/instagram/InstagramOne';
-import FooterOne from '../common/elements/footer/FooterOne';
 import HeadTitle from '../common/elements/head/HeadTitle';
 import HeaderOne from '../common/elements/header/HeaderOne';
 import { getAllPosts } from '../../lib/api';
@@ -18,7 +17,7 @@ import FooterTwo from '../common/elements/footer/FooterThree';
 const HomeDefault = ({allPosts}) => {
 
   const videoPost = allPosts.filter(post => post.postFormat === "video");
- 
+
   return ( 
     <>
       <HeadTitle pageTitle="Orthodox Homepage" />
@@ -37,7 +36,6 @@ const HomeDefault = ({allPosts}) => {
 }
  
 export default HomeDefault;
-
 
 export async function getStaticProps() {
   const allPosts = getAllPosts([
@@ -58,6 +56,12 @@ export async function getStaticProps() {
     'read_time',
     'author_social',
   ])
+
+  // sort posts by date
+  allPosts.sort(function(a,b){
+    return new Date(b.date) - new Date(a.date);
+  });
+
 
   return {
     props: { allPosts }

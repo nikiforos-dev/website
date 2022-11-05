@@ -23,8 +23,8 @@ featured: false
 link: https://www.patristicfaith.com/christian-lifestyle/love-your-enemies-2/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 4 Views
-read_time: 4 min read
+post_views: 25 Views
+read_time: 2 min read
 slidePost: false
 tags:
 - Orthodox

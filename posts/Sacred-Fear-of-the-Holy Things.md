@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/sacred-fear-of-the-holy-things/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 27 Views
-read_time: 3 min read
+post_views: 17 Views
+read_time: 4 min read
 slidePost: false
 tags:
 - Orthodox

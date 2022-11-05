@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/its-time-to-prepare/
 pCate: Death to the World
 postFormat: standard
-post_views: 71 Views
-read_time: 8 min read
+post_views: 34 Views
+read_time: 19 min read
 slidePost: false
 tags:
 - Orthodox

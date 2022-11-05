@@ -28,7 +28,7 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/orthodox-christian-spirituality/spiritual-disciplines/prayer/sight-a-cause-for-scandal/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 25 Views
+post_views: 11 Views
 read_time: 2 min read
 slidePost: false
 tags:

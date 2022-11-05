@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/homily-on-the-exaltation-of-the-holy-cross/
 pCate: Death to the World
 postFormat: standard
-post_views: 39 Views
-read_time: 19 min read
+post_views: 46 Views
+read_time: 14 min read
 slidePost: false
 tags:
 - Orthodox

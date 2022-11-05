@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/chasing-the-phantom/
 pCate: Death to the World
 postFormat: standard
-post_views: 72 Views
-read_time: 6 min read
+post_views: 99 Views
+read_time: 13 min read
 slidePost: false
 tags:
 - Orthodox

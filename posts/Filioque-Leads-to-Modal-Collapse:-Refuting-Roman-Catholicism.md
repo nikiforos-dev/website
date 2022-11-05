@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/filioque-leads-to-modal-collapse-refuting-roman-catholicism/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 5 Views
-read_time: 2 min read
+post_views: 25 Views
+read_time: 1 min read
 slidePost: false
 tags:
 - Orthodox

@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/other-articles/commandments-and-anti-commandments/
 pCate: Death to the World
 postFormat: standard
-post_views: 79 Views
-read_time: 12 min read
+post_views: 65 Views
+read_time: 10 min read
 slidePost: false
 tags:
 - Orthodox

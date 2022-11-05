@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/on-truth-and-love/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 4 Views
-read_time: 2 min read
+post_views: 7 Views
+read_time: 1 min read
 slidePost: false
 tags:
 - Orthodox

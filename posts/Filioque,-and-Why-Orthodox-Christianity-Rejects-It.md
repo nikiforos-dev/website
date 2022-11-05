@@ -28,7 +28,7 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/orthodox-christian-theology/filioque-and-why-orthodox-christianity-rejects-it/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 9 Views
+post_views: 6 Views
 read_time: 3 min read
 slidePost: false
 tags:

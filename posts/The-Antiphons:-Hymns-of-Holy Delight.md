@@ -28,8 +28,8 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/the-antiphons-hymns-of-holy-delight/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 24 Views
-read_time: 2 min read
+post_views: 19 Views
+read_time: 1 min read
 slidePost: false
 tags:
 - Orthodox

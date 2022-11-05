@@ -28,7 +28,7 @@ featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/orthodox-christian-apologetics/st-maximus-the-confessor-and-the-filioque-in-letter-to-marinus/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 18 Views
+post_views: 15 Views
 read_time: 3 min read
 slidePost: false
 tags:

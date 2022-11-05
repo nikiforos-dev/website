@@ -25,8 +25,8 @@ featured: false
 link: https://deathtotheworld.com/articles/people-today-still-choose-barabbas/
 pCate: Death to the World
 postFormat: standard
-post_views: 57 Views
-read_time: 6 min read
+post_views: 16 Views
+read_time: 14 min read
 slidePost: false
 tags:
 - Orthodox

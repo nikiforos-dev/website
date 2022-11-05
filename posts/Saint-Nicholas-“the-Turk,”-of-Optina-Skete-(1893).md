@@ -19,15 +19,15 @@ author_social:
     url: https://linkedin.com
 cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/F-Turk.jpg?resize=1140%2C663&ssl=1
-date: September 6, 2022
+date: '2022-09-06'
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/F-Turk.jpg?resize=1140%2C663&ssl=1
-featured: true
+featured: false
 link: https://deathtotheworld.com/articles/saint-nicholas-the-turk-of-optina-skete-1893/
 pCate: Death to the World
 postFormat: standard
-post_views: 22 Views
-read_time: 13 min read
-slidePost: true
+post_views: 57 Views
+read_time: 7 min read
+slidePost: false
 tags:
 - Orthodox
 - Punk Rock

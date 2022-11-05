@@ -19,15 +19,15 @@ author_social:
     url: https://linkedin.com
 cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/05/f-interview.jpg?resize=1140%2C663&ssl=1
-date: May 23, 2022
+date: '2022-05-23'
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/05/f-interview.jpg?resize=1140%2C663&ssl=1
-featured: true
+featured: false
 link: https://deathtotheworld.com/articles/videos/interview-with-a-devotional-heart/
 pCate: Death to the World
 postFormat: standard
-post_views: 73 Views
-read_time: 8 min read
-slidePost: true
+post_views: 38 Views
+read_time: 12 min read
+slidePost: false
 tags:
 - Orthodox
 - Punk Rock

@@ -19,15 +19,15 @@ author_social:
     url: https://linkedin.com
 cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/01/F-itstime.jpg?resize=1140%2C663&ssl=1
-date: January 18, 2022
+date: '2022-01-18'
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/01/F-itstime.jpg?resize=1140%2C663&ssl=1
-featured: true
+featured: false
 link: https://deathtotheworld.com/articles/its-time-to-prepare/
 pCate: Death to the World
 postFormat: standard
-post_views: 59 Views
-read_time: 15 min read
-slidePost: true
+post_views: 8 Views
+read_time: 12 min read
+slidePost: false
 tags:
 - Orthodox
 - Punk Rock

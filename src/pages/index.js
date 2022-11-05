@@ -26,7 +26,7 @@ const HomeDefault = ({allPosts}) => {
       <SliderOne postData={allPosts} />
       <PostSectionThree postData={allPosts} adBanner={true} bgColor="bg-color-grey" heading="Most Popular"/>
       <PostSectionOne postData={allPosts}/>
-      <PostSectionTwo postData={allPosts} adBanner={false} />
+      <PostSectionTwo postData={allPosts} adBanner={true} />
       <CategoryList cateData={allPosts}/>
       <PostSectionSix postData={allPosts} />
       <SocialOne />

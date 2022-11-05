@@ -1,15 +1,16 @@
 ---
-author_bio: "\n    David Erhan (previously known as therealMedWhite) is an Orthodox\
-    \ convert from Turkey who mostly focuses on Christological disputes concerning\
-    \ the Monophysite crisis. He's also the creator of the \"History of Christian\
-    \ Theology\" series on YouTube where he explains the theology of the great Church\
-    \ Fathers such as the Cappadocians, Hilary, Ambrose, Cyril, Maximus, and John\
-    \ of\nDamascus which help reveal the true Apostolic Christianity the world has\n\
-    forgotten.\n"
+author_bio: 'David Erhan (previously known as therealMedWhite) is an Orthodox convert
+    from Turkey who mostly focuses on Christological disputes concerning the Monophysite
+    crisis. He''s also the creator of the "History of Christian Theology" series on
+    YouTube where he explains the theology of the great Church Fathers such as the
+    Cappadocians, Hilary, Ambrose, Cyril, Maximus, and John of
+
+    Damascus which help reveal the true Apostolic Christianity the world has
+
+    forgotten.'
 author_designation: Contributor to Patristic Faith
 author_img: https://www.patristicfaith.com/wp-content/uploads/2021/12/David20Erhan20headshot-150x150.webp
-author_name: "\n\t\n                        \n\t\t            David Erhan        \
-    \        \n\t            \t\n"
+author_name: David Erhan
 author_social:
 -   icon: fab fa-facebook-f
     url: https://www.facebook.com/Patristic-Faith-102505382206381
@@ -21,15 +22,15 @@ author_social:
     url: https://linkedin.com
 cate: Apologetics
 cate_img: https://www.patristicfaith.com/wp-content/uploads/2022/07/Filioque-Leads-to-Modal-Collapse.png
-date: "\n\t\t\t\t\t\t\t\t\t\tJuly 18, 2022\t\t\t\t\t"
+date: '2022-07-18'
 featureImg: https://www.patristicfaith.com/wp-content/uploads/2022/07/Filioque-Leads-to-Modal-Collapse.png
-featured: true
+featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/filioque-leads-to-modal-collapse-refuting-roman-catholicism/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 6 Views
-read_time: 4 min read
-slidePost: true
+post_views: 9 Views
+read_time: 3 min read
+slidePost: false
 tags:
 - Orthodox
 - Serbian

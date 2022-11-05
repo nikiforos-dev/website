@@ -19,15 +19,15 @@ author_social:
     url: https://linkedin.com
 cate: Articles
 cate_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/f-SeraphimJohn.jpg?resize=1140%2C663&ssl=1
-date: September 9, 2022
+date: '2022-09-09'
 featureImg: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2022/09/f-SeraphimJohn.jpg?resize=1140%2C663&ssl=1
-featured: true
+featured: false
 link: https://deathtotheworld.com/articles/fr-seraphim-rose-on-the-theology-of-st-john-maximovitch/
 pCate: Death to the World
 postFormat: standard
-post_views: 9 Views
-read_time: 13 min read
-slidePost: true
+post_views: 62 Views
+read_time: 12 min read
+slidePost: false
 tags:
 - Orthodox
 - Punk Rock

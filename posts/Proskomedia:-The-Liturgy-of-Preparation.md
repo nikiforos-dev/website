@@ -1,17 +1,16 @@
 ---
-author_bio: "\n    Husband, father, and Priest. \nSchooling: Kharkov State University\
-    \ (Ukraine); Brownsville School of Ministry; St. Tikhon's Orthodox Seminary (M.Div.).\n\
-    Author and illustrator of St. Patrick, Enlightener of the Irish Lands (Conciliar\
-    \ Press, out of print) and illustrator of The Life of St. Brigid (authored by\
-    \ Jane G. Meyer).\nProprietor and writer at the Inkless Pen Blog, at which, based\
-    \ on  the foundation of the teachings of Orthodox Christianity, a wide variety\
-    \ of topics are addressed. Fr. Zechariah has translated some works by St. Dimitry\
+author_bio: "Husband, father, and Priest. \nSchooling: Kharkov State University (Ukraine);\
+    \ Brownsville School of Ministry; St. Tikhon's Orthodox Seminary (M.Div.).\nAuthor\
+    \ and illustrator of St. Patrick, Enlightener of the Irish Lands (Conciliar Press,\
+    \ out of print) and illustrator of The Life of St. Brigid (authored by Jane G.\
+    \ Meyer).\nProprietor and writer at the Inkless Pen Blog, at which, based on \
+    \ the foundation of the teachings of Orthodox Christianity, a wide variety of\
+    \ topics are addressed. Fr. Zechariah has translated some works by St. Dimitry\
     \ of Rostov and New Hieromartyr Seraphim (Zvesdensky), these translations are\
-    \ also available on his blog.\n"
+    \ also available on his blog."
 author_designation: Contributor to Patristic Faith
 author_img: https://www.patristicfaith.com/wp-content/uploads/2022/01/Fr.-Zechariah-Lynch-150x150.png
-author_name: "\n\t\n                        \n\t\t            Fr. Zechariah Lynch\
-    \                \n\t            \t\n"
+author_name: Fr. Zechariah Lynch
 author_social:
 -   icon: fab fa-facebook-f
     url: https://www.facebook.com/Patristic-Faith-102505382206381
@@ -23,15 +22,15 @@ author_social:
     url: https://linkedin.com
 cate: Spirituality
 cate_img: https://www.patristicfaith.com/wp-content/uploads/2022/07/Proskomedia-The-Liturgy-of-Preparation-2.png
-date: "\n\t\t\t\t\t\t\t\t\t\tAugust 2, 2022\t\t\t\t\t"
+date: '2022-08-02'
 featureImg: https://www.patristicfaith.com/wp-content/uploads/2022/07/Proskomedia-The-Liturgy-of-Preparation-2.png
-featured: true
+featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/proskomedia-the-liturgy-of-preparation/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 1 Views
+post_views: 3 Views
 read_time: 3 min read
-slidePost: true
+slidePost: false
 tags:
 - Orthodox
 - Serbian

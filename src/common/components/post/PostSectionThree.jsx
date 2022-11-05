@@ -26,8 +26,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
             <div className="content-block post-default image-rounded mt--30">
             {firstPost.featureImg ? 
               <div className="post-thumbnail">
-                <Link href={`/post/${firstPost.slug}`}>
-                  <a>
+                  <a href={firstPost.link} target="_blank">
                     <Image
                       src={firstPost.featureImg}
                       alt={firstPost.title}
@@ -36,46 +35,41 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                       priority={true}
                     />
                   </a>
-                </Link>
-                {firstPost.postFormat === 'video' ? <Link href={`/post/${firstPost.slug}`}>
-                  <a className="video-popup position-top-center">
+                {firstPost.postFormat === 'video' ? 
+                  <a href={firstPost.link} target="_blank" className="video-popup position-top-center">
                     <span className="play-icon" />
                   </a>
-                </Link> : ""}
+                 : ""}
                
               </div>:""}
               <div className="post-content">
                 <div className="post-cat">
                   <div className="post-cat-list">
-                    <Link href={`/category/${slugify(firstPost.cate)}`}>
-                      <a className="hover-flip-item-wrapper">
+                      <a href={firstPost.link} target="_blank" className="hover-flip-item-wrapper">
                         <span className="hover-flip-item">
                           <span data-text={firstPost.cate}>
                             {firstPost.cate}
                           </span>
                         </span>
                       </a>
-                    </Link>
                   </div>
                 </div>
                 <h3 className="title">
-                  <Link href={`/post/${firstPost.slug}`}>
-                    <a>{firstPost.title}</a>
-                  </Link>
+                    <a href={firstPost.link} target="_blank">
+                      {firstPost.title}
+                    </a>
                 </h3>
                 <div className="post-meta-wrapper">
                   <div className="post-meta">
                     <div className="content">
                       <h6 className="post-author-name">
-                        <Link href={`/author/${slugify(firstPost.author_name)}`}>
-                          <a className="hover-flip-item-wrapper">
+                          <a href={firstPost.link} target="_blank" className="hover-flip-item-wrapper">
                             <span className="hover-flip-item">
                               <span data-text={firstPost.author_name}>
                                 {firstPost.author_name}
                               </span>
                             </span>
                           </a>
-                        </Link>
                       </h6>
                       <ul className="post-meta-list">
                         <li>{firstPost.date}</li>
@@ -103,8 +97,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                   <div className="content-block post-default image-rounded mt--30">
                   {data.featureImg ? 
                     <div className="post-thumbnail">
-                      <Link href={`/post/${data.slug}`}>
-                      <a>
+                      <a href={data.link} target="_blank">
                         <Image
                           src={data.featureImg}
                           alt={data.title}
@@ -113,33 +106,30 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
                           priority={true}
                         />
                       </a>
-                    </Link>
-                    {data.postFormat === 'video' ? <Link href={`/post/${data.slug}`}>
-                      <a className="video-popup size-medium position-top-center">
+                    {data.postFormat === 'video' ?
+                      <a  href={data.link} target="_blank" className="video-popup size-medium position-top-center">
                         <span className="play-icon" />
                       </a>
-                    </Link> : ""}
+                       : ""}
                     
                     </div>
                     :""}
                     <div className="post-content">
                       <div className="post-cat">
                         <div className="post-cat-list">
-                        <Link href={`/category/${slugify(data.cate)}`}>
-                          <a className="hover-flip-item-wrapper">
+                          <a href={data.link} target="_blank" className="hover-flip-item-wrapper">
                             <span className="hover-flip-item">
                               <span data-text={data.cate}>
                                 {data.cate}
                               </span>
                             </span>
                           </a>
-                        </Link>
                         </div>
                       </div>
                       <h5 className="title">
-                      <Link href={`/post/${data.slug}`}>
-                        <a>{data.title}</a>
-                      </Link>
+                        <a href={data.link} target="_blank">
+                          {data.title}
+                        </a>
                       </h5>
                     </div>
                   </div>

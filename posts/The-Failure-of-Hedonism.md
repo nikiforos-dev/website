@@ -19,15 +19,15 @@ author_social:
     url: https://linkedin.com
 cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2021/10/F-hedonism.jpg?resize=1140%2C663&ssl=1
-date: October 25, 2021
+date: '2021-10-25'
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2021/10/F-hedonism.jpg?resize=1140%2C663&ssl=1
-featured: true
+featured: false
 link: https://deathtotheworld.com/articles/the-failure-of-hedonism/
 pCate: Death to the World
 postFormat: standard
-post_views: 99 Views
-read_time: 9 min read
-slidePost: true
+post_views: 16 Views
+read_time: 18 min read
+slidePost: false
 tags:
 - Orthodox
 - Punk Rock

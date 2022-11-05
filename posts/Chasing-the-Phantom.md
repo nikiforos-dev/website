@@ -19,15 +19,15 @@ author_social:
     url: https://linkedin.com
 cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/10/F-Phantom.jpg?resize=1140%2C663&ssl=1
-date: October 4, 2022
+date: '2022-10-04'
 featureImg: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/10/F-Phantom.jpg?resize=1140%2C663&ssl=1
-featured: true
+featured: false
 link: https://deathtotheworld.com/articles/chasing-the-phantom/
 pCate: Death to the World
 postFormat: standard
-post_views: 47 Views
-read_time: 7 min read
-slidePost: true
+post_views: 60 Views
+read_time: 14 min read
+slidePost: false
 tags:
 - Orthodox
 - Punk Rock

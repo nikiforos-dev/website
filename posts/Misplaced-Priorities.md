@@ -1,13 +1,11 @@
 ---
-author_bio: "\n    Fr. Tryphon is the Abbot of the Monastery of the All-Merciful Saviour,\
-    \ which was established in 1986 by Archimandrite Dimitry (Egoroff) of blessed\
-    \ memory. The Monastery is under the omophore of His Eminence Kyrill, Archbishop\
-    \ of San Francisco and Western America, of the Russian Orthodox Church Outside\
-    \ of Russia.\n"
+author_bio: Fr. Tryphon is the Abbot of the Monastery of the All-Merciful Saviour,
+    which was established in 1986 by Archimandrite Dimitry (Egoroff) of blessed memory.
+    The Monastery is under the omophore of His Eminence Kyrill, Archbishop of San
+    Francisco and Western America, of the Russian Orthodox Church Outside of Russia.
 author_designation: Contributor to Patristic Faith
 author_img: https://www.patristicfaith.com/wp-content/uploads/2021/12/Abbot-Tryphon-Headshot-150x150.png
-author_name: "\n\t\n                        \n\t\t            Abbot Tryphon      \
-    \          \n\t            \t\n"
+author_name: Abbot Tryphon
 author_social:
 -   icon: fab fa-facebook-f
     url: https://www.facebook.com/Patristic-Faith-102505382206381
@@ -19,15 +17,15 @@ author_social:
     url: https://linkedin.com
 cate: Spirituality
 cate_img: https://www.patristicfaith.com/wp-content/uploads/2022/07/Misplaced-Priorities.png
-date: "\n\t\t\t\t\t\t\t\t\t\tAugust 1, 2022\t\t\t\t\t"
+date: '2022-08-01'
 featureImg: https://www.patristicfaith.com/wp-content/uploads/2022/07/Misplaced-Priorities.png
-featured: true
+featured: false
 link: https://www.patristicfaith.com/orthodox-christianity/misplaced-priorities/
 pCate: Patristic Faith
 postFormat: standard
-post_views: 15 Views
-read_time: 2 min read
-slidePost: true
+post_views: 22 Views
+read_time: 4 min read
+slidePost: false
 tags:
 - Orthodox
 - Serbian

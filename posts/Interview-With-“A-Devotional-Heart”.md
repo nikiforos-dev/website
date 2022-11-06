@@ -10,13 +10,15 @@ author_img: https://i2.wp.com/deathtotheworld.com/wp-content/uploads/2014/06/dtt
 author_name: Death to the World
 author_social:
 -   icon: fab fa-facebook-f
-    url: https://facebook.com
+    url: https://www.facebook.com/sharer/sharer.php?u=https://deathtotheworld.com/articles/videos/interview-with-a-devotional-heart/
 -   icon: fab fa-twitter
-    url: https://twitter.com
--   icon: fab fa-instagram
-    url: https://instagram.com
+    url: 'https://twitter.com/intent/tweet?text=Check out this article from %40OrthodyHomepage:
+        https://deathtotheworld.com/articles/videos/interview-with-a-devotional-heart/'
+-   icon: fab fa-telegram
+    url: https://telegram.me/share/url?url=https://deathtotheworld.com/articles/videos/interview-with-a-devotional-heart/&text=from
+        OrthodoxyHome
 -   icon: fas fa-link
-    url: https://linkedin.com
+    url: https://www.linkedin.com/shareArticle?url=https://deathtotheworld.com/articles/videos/interview-with-a-devotional-heart/
 cate: Articles
 cate_img: https://i1.wp.com/deathtotheworld.com/wp-content/uploads/2022/05/f-interview.jpg?resize=1140%2C663&ssl=1
 date: '2022-05-23'
@@ -25,8 +27,8 @@ featured: false
 link: https://deathtotheworld.com/articles/videos/interview-with-a-devotional-heart/
 pCate: Death to the World
 postFormat: standard
-post_views: 49 Views
-read_time: 13 min read
+post_views: 54 Views
+read_time: 17 min read
 slidePost: false
 tags:
 - Orthodox

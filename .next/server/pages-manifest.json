@@ -2,5 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/todays_articles": "pages/todays_articles.js"
+  "/author/[slug]": "pages/author/[slug].js",
+  "/": "pages/index.js",
+  "/category/[slug]": "pages/category/[slug].js",
+  "/tag/[slug]": "pages/tag/[slug].js",
+  "/todays_articles": "pages/todays_articles.js",
+  "/404": "pages/404.html"
 }

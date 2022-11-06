@@ -26,9 +26,9 @@ docker run -p 80:3000 orthohome:Dockerfile
 
 ## Goals
 
-[x] Gather article links and meta data from intersting sites and host
-[x] Gather videos and meta data from interesting sites and hosts
-[ ] Build Gitlab pipeline to automate gathering data, building production, and deploying to AWS
+- [x] Gather article links and meta data from intersting sites and host
+- [x] Gather videos and meta data from interesting sites and hosts
+- [ ] Build Gitlab pipeline to automate gathering data, building production, and deploying to AWS
     [ ] Terraform to build AWS infrastructure for hosting the container
     [ ] Gitlab pipeline config to handle all the operations
     [ ] Consider maintaing the content gathering feature from a local machine

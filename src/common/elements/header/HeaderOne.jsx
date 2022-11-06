@@ -27,7 +27,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                 <div className="header-wrap">
                     <div className="row justify-content-between align-items-center">
                         <div className="col-xl-3 col-lg-3 col-md-4 col-sm-3 col-12">
-                            <div className="logo">
+                            {/* <div className="logo">
                                 <Link href="/">
                                     <a>
                                         <Image
@@ -39,7 +39,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                                         />
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
                         <div className="col-xl-6 d-none d-xl-block">
                             <div className="mainmenu-wrapper">
@@ -50,7 +50,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                         </div>
                         <div className="col-xl-3 col-lg-8 col-md-8 col-sm-9 col-12">
                             <div className="header-search text-end d-flex align-items-center">
-                                <form className="header-search-form d-sm-block d-none">
+                                {/* <form className="header-search-form d-sm-block d-none">
                                     <div className="axil-search form-group">
                                         <button type="submit" className="search-button">
                                             <i className="fal fa-search" />
@@ -106,7 +106,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                                             </a>
                                         </Link>
                                     </li>
-                                </ul>
+                                </ul> */}
                                 {/* Start Hamburger Menu  */}
                                 <div className="hamburger-menu d-block d-xl-none">
                                     <div className="hamburger-inner">

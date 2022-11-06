@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { slugify } from "../../utils";
 import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
-import AddBanner from "../ad-banner/AddBanner";
+import AdBanner from "../ad-banner/AdBanner";
 
 const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
 
@@ -13,7 +13,7 @@ const PostSectionThree = ({ postData, adBanner, bgColor, heading }) => {
       {adBanner === true ?  
 			<div className="row">
             <div className="col-lg-12">
-              <AddBanner
+              <AdBanner
                 img="/images/add-banner/banner-03.webp"
                 pClass="mb--30"
               />

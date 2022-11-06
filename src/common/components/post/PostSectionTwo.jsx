@@ -5,7 +5,7 @@ import Tab from "react-bootstrap/Tab";
 import Nav from "react-bootstrap/Nav";
 import categoryFilter from "../../../data/user_defined/article_categories.json"
 import { SectionTitleOne } from "../../elements/sectionTitle/SectionTitle";
-import AddBanner from "../ad-banner/AddBanner";
+import AdBanner from "../ad-banner/AdBanner";
 import Slider from "react-slick";
 import { slugify } from "../../utils";
 
@@ -101,7 +101,7 @@ const PostSectionTwo = ({ postData, adBanner, headingTitle }) => {
 			{adBanner === true ?  
 			<div className="row">
             <div className="col-lg-12">
-              <AddBanner
+              <AdBanner
                 img="/images/add-banner/banner-03.webp"
                 pClass="mb--30"
               />

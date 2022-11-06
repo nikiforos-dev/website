@@ -74,6 +74,11 @@ const Nav = ({posts}) => {
                     <a>Home</a>
                 </Link>
             </li>
+            <li>
+                <Link href="/todays_articles">
+                    <a>Today's Articles</a>
+                </Link>
+            </li>
             <li className="menu-item-has-children megamenu-wrapper">
                 <Link href="#">
                     <a>Categories</a>

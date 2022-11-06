@@ -22,6 +22,9 @@ const PostCategory = ({ postData, allPosts }) => {
 				<div className="col-lg-8 col-xl-8">
 					<PostLayoutTwo dataPost={postData} show="10"/>
 				</div>
+				<div className="col-lg-8 col-xl-8">
+					<PostLayoutTwo dataPost={postData} show="10"/>
+				</div>
 				<div className="col-lg-4 col-xl-4 mt_md--40 mt_sm--40">
 					<SidebarOne dataPost={allPosts}/>
 				</div>

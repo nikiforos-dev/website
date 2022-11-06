@@ -40,6 +40,7 @@ const HeaderOne = ({pClass, darkLogo, lightLogo, postData}) => {
                                     </a>
                                 </Link>
                             </div> */}
+                            <h3 style={{marginBottom: 0}}>Orthodoxy Homepage</h3>
                         </div>
                         <div className="col-xl-6 d-none d-xl-block">
                             <div className="mainmenu-wrapper">
